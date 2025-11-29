@@ -24,7 +24,7 @@ This project follows the official Vite React template and includes optional ESLi
 
 ```bash
 git clone https://github.com/your-username/tic-tac-toe-react.git
-cd tic-tac-toe-react
+cd tic-tac-toe
 ```
 
 ### 2️⃣ Install dependencies
