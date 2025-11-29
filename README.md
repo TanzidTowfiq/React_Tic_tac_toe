@@ -15,19 +15,23 @@ JavaScript (ES6)
 CSS for styling
 
 📦 Installation & Setup
+
 1️⃣ Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-react.git
-cd tic-tac-toe-react
+
+ git clone https://github.com/your-username/tic-tac-toe-react.git
+ 
+ cd tic-tac-toe-react
 
 2️⃣ Install dependencies
-npm install
+
+ npm install
 
 3️⃣ Start development server
-npm run dev
+
+ npm run dev
 
 
-Vite will start a dev server (usually at http://localhost:5173
-).
+ Vite will start a dev server (usually at http://localhost:5173).
 
 ⚙️ React + Vite Notes
 
